@@ -1,5 +1,5 @@
 # Modeling-II-Machine-Learning
-Final class project for Modeling II: Machine Learning at USF; a graduate course in the Data Science program.
+Final class project for Modeling II: Machine Learning at USF, a graduate course in the Data Science program.
 
 
 ## Can Climate Shocks Predict Conflict: The Agriculture Channel
